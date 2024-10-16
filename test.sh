@@ -21,7 +21,7 @@ do
         git add "$FILE"
 
         # 提交更改，提交信息包含当前时间和随机字符串
-        git commit -m "I Will AK CSP 2024!"
+        git commit -m  "I Will AK CSP 2024!"
         # 输出提交信息
         echo "Committed: $RANDOM_STRING"
         
